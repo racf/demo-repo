@@ -7,7 +7,7 @@
 		"10050944020": {
 			"tipo_entrega": "Tarjeta",
 			"cve_ife": "MRBLPT80031728M800",
-			"curp": "REMK040822MNLYRMA2",
+			"curp": "REMK040822HNLYRMA2",
 			"completo": true,
 			"banco": "Banorte",
 			"tarjeta_entregada": 0,
@@ -38,7 +38,7 @@
 			"idUnicoVerif": "10050943955",
 			"referencia_pago": null,
 			"edad": "18",
-			"curp": "MAGM000721MNLRRRA3",
+			"curp": "MAGM000721HNLRRRA3",
 			"cve_ife": "GRRYEL66091205M000",
 			"tipo_entrega": "Tarjeta",
 			"banco": "Banorte",
@@ -66,7 +66,7 @@
 			"tarjeta_entregada": 0,
 			"completo": true,
 			"banco": "Banorte",
-			"curp": "EIMR510205HNLLNF05",
+			"curp": "EIMR510205MNLLNF05",
 			"tipo_entrega": "Tarjeta",
 			"cve_ife": "ELMNRF51020519H100"
 		}
@@ -98,7 +98,7 @@
 		"a_mat": "Martinez",
 		"tipo_entrega": "Tarjeta",
 		"cve_ife": "MRBLPT80031728M800",
-		"curp": "REMK040822MNLYRMA2",
+		"curp": "REMK040822HNLYRMA2",
 		"banco": "Banorte",
 		"completo": true
 	},
@@ -131,7 +131,7 @@
 		"nom": "Refugio",
 		"idUnicoVerif": "10098122620",
 		"sexo": "1",
-		"curp": "EIMR510205HNLLNF05",
+		"curp": "EIMR510205MNLLNF05",
 		"completo": true,
 		"tipo_entrega": "Tarjeta",
 		"a_pat": "Elizondo",
@@ -157,7 +157,7 @@
 			"titular": true,
 			"a_pat": "Elizondo",
 			"tipo_entrega": "Tarjeta",
-			"curp": "EIMR510205HNLLNF05",
+			"curp": "EIMR510205MNLLNF05",
 			"completo": true,
 			"sexo": "1",
 			"idUnicoVerif": "10098122620",
